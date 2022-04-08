@@ -1,4 +1,4 @@
-module example/twilio-go-foobar
+module example/song-of-the-day
 
 go 1.17
 
