@@ -8,4 +8,4 @@ RUN go install -v ./...
 
 EXPOSE 5000
 
-CMD ["twilio-go-foobar"]
+CMD ["song-of-the-day"]
